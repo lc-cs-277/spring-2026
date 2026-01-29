@@ -34,11 +34,11 @@ conduit; you won't make any changes in there.
 
 Professor: Alain Kägi  
 Email: alaink@lclark.edu  
-Office hours: TBA
+Office hours: Thu 10-11am & Fri 3-4pm, Olin 226B
 
 TA: Ezra Billings  
 Email: ebillings@lclark.edu  
-Office hours: TBA
+Office hours: Mon 5-6pm & Tue 12:40-1:40pm, Olin 309
 
 ## Course description
 
