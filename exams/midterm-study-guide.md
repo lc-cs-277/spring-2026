@@ -152,3 +152,30 @@
       * `R[%reg] = M[R[%rsp]]`
       * `R[%rsp] = R[%rsp] + 8`
   * Operand can be a memory location
+* Control instructions
+  * Condition code
+    * `CF`, `PF`, `ZF`, `SF`, `OF`
+    * Setting
+      * `cmpq`, `testq`
+    * Using
+      * Jump instructions
+        * `je`, `jne`, `js`, `jns`, `jg`, `jge`, `jl`, `jle`
+  * If statements
+  * Loop statements
+  * Calling functions
+    * `call`, `ret`
+    * Data passing convention
+      * Arguments
+      * Return value
+      * Caller saved
+      * Callee saved
+    * Stack
+      * Arguments
+      * Return address
+      * Local variables
+* Arrays
+  * Memory operand forms designed for array accesses
+* Structs
+  * Memory operand forms designed for field accesses
+  * Alignment
+    * Start on an address that is a multiple of the type's size
